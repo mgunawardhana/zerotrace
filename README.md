@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">ZeroTrace Crypto Wallet</h1>
-  <img src="https://github.com/user-attachments/assets/6070fd43-2638-446a-9bff-5b6b8f29e2e7">
+  <img src="https://github.com/user-attachments/assets/cc281a73-bae3-406e-91ac-5ff02343085c">
   <p align="center">
     A secure, reliable, and developer-friendly backend service for a modern digital wallet.
   </p>
